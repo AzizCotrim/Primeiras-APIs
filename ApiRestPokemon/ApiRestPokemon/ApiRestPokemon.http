@@ -1,0 +1,6 @@
+@ApiRestPokemon_HostAddress = http://localhost:5181
+
+GET {{ApiRestPokemon_HostAddress}}/Pokemon/
+Accept: application/json
+
+###
